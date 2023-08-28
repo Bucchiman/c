@@ -23,3 +23,7 @@ a.out
 build/
 bin/
 obj/
+
+.modules.order.cmd
+*.mod.cmd
+*.o.cmd
